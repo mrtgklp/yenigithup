@@ -6,6 +6,7 @@ public class Pratice_Githup {
         System.out.println("v3");
         System.out.println("bugun hava yagıslı");
         System.out.println("bugun hava bulut");
+        System.out.println("hayat kısa kodlarda kısa olmalı");
 
     }
 }
